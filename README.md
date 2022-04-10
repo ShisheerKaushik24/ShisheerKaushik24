@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShisheerKaushik24
+- 👋 Hi, I’m @ShishKaushik24
 - 👀 I’m interested in Quantum Information Science
 - 🌱 I’m currently learning Quantum Algorithm and Simulation
 - 💞️ I’m looking to collaborate on ...
