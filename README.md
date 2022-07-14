@@ -10,13 +10,6 @@ About me ..
 
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/shisheerkaushik24/)
 
-<a href="https://github.com/ShisheerKaushik24/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShisheerKaushik24&layout=compact&repo=convoychat" />
-</a>
-
 [![Shish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
