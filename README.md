@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @ShishKaushik24
-- 👀 I’m interested in Quantum Information Science
-- 🌱 I’m currently learning Quantum Algorithm and Simulation
+👋 Hi, I'm Shisheer S Kaushik
+
+I'm a self-taught passionate Quantum Software developer
+
+About me ..
+
+- 👀 My interest lies in [Quantum Information Science](https://uwaterloo.ca/institute-for-quantum-computing/quantum-101/quantum-information-science-and-technology)
+
+- 🌱 I’m currently learning Quantum Algorithm and Simulation using [Qiskit](https://qiskit.org/learn/)
+
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/shisheerkaushik24/)
+
 [![Shish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ShisheerKaushik24/ShisheerKaushik24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
