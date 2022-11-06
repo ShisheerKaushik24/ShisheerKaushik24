@@ -1,4 +1,4 @@
-👋 Hi, I'm **Shisheer S Kaushik**
+👋 Hello, I'm **Shisheer S Kaushik**
 
 I'm a self-taught passionate Quantum Software developer
 
