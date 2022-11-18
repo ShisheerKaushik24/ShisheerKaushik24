@@ -41,9 +41,17 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24)](https://github.com/ShisheerKaushik24/github-readme-stats) -->
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShisheerKaushik24&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShisheerKaushik24&theme=radical"/>
+  </a>
+  <br/>
+</p>
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Nouhaila.Innanov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/InnanNouhaila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCvF_qmgPW2-HJUF_X7yQsQQ) 
-[![Twitter](https://icones8.fr/icon/13930/linkedin.png)](https://twitter.com/innannouhaila)
+[![Twitter](https://icones8.fr/icon/13930/linkedin.png)](https://twitter.com/agusthya1)
 
 [![Linkedin](![image](https://user-images.githubusercontent.com/64653897/125191404-2ca62a80-e23a-11eb-8918-531ece666f89.png))](https://www.linkedin.com/in/ShisheerKaushik24/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/innannouhaila) -->
