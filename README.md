@@ -3,7 +3,7 @@
 I'm a self-taught passionate Quantum Software developer
 
 <a href="https://github.com/ShisheerKaushik24/ShisheerKaushik24">
-  <img src="https://github.com/ShisheerKaushik24/ShisheerKaushik24/blob/main/IBM%20_%20Quantum%20Computing.jpeg" align="right" width="300" height="400" />
+  <img src="https://github.com/ShisheerKaushik24/ShisheerKaushik24/blob/main/IBM_Quantum_Computing.jpeg" align="right" width="300" height="400" />
 </a>
 
 **About me ..**
