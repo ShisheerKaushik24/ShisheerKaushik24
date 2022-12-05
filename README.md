@@ -60,6 +60,3 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShisheerKaushik24/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/agusthya1)
 
-<p align="center">
-  <img src="https://github.com/Innanov/Innanov/blob/main/github-user-contribution.svg" alt="snake"></center>
-</p>
