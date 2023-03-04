@@ -18,7 +18,7 @@ I'm a self-taught passionate Quantum Software developer
 
 - 🌱 I’m currently learning Quantum Algorithm and Simulation using [Qiskit](https://qiskit.org/learn/)
 
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/shisheerkaushik24/)
+- 📫 You can [contact](shisheerkaushik24@yahoo.com) me.
 
 ## Tools & Stats 🛠️
 - Programming Languages, Frameworks & Libraries<br>
@@ -47,7 +47,7 @@ I'm a self-taught passionate Quantum Software developer
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24&layout=compact" alt="Top Langs" width="300" height="375" style="margin-left:20px;">
 -->
 
-**Contact me @..**
+**Connect with me @..**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShisheerKaushik24/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/agusthya1)
