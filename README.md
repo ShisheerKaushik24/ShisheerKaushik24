@@ -1,13 +1,16 @@
+<p align="center">
+  <a href="https://github.com/ShisheerKaushik24/ShisheerKaushik24">
+    <img src="https://github.com/ShisheerKaushik24/ShisheerKaushik24/blob/main/data/ibm.jpeg" width="400" height="500" />
+  </a>
+</p>
+
+<p align="center"><small style="font-size: 10px;">Source: IBM Quantum</small></p>
+
 👋 Hello, I'm **Shisheer S Kaushik**
 
 I'm a self-taught passionate Quantum Software developer
 
 <a href="https://github.com/ShisheerKaushik24" target="_blank"><img src="https://img.shields.io/github/followers/ShisheerKaushik24?label=Follow&style=social" /></a> <a><img src="https://visitor-badge.laobi.icu/badge?page_id=ShisheerKaushik24/ShisheerKaushik24" /></a>
-
-
-<a href="https://github.com/ShisheerKaushik24/ShisheerKaushik24">
-  <img src="https://github.com/ShisheerKaushik24/ShisheerKaushik24/blob/main/data/ibm.jpeg" align="right" width="300" height="400" />
-</a>
 
 **About me ..**
 
@@ -35,23 +38,16 @@ I'm a self-taught passionate Quantum Software developer
 - IDEs/Editors<br>
     <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" height="23px" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
     <a href="https://www.arduino.cc/en/software" target="_blank"><img alt="Arduino" height="23px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
-
-
-
-![Shish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24&layout=compact)
-
-
-<p align="center">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical" alt="Shish's GitHub stats" width="400" height="375" style="margin-right: 20px;">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShisheerKaushik24&theme=radical"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShisheerKaushik24&theme=radical" alt="GitHub Streak" width="400" height="375" style="margin-left: 20px;">
   </a>
-  <br/>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24&layout=compact" alt="Top Langs" width="300" height="375" style="margin-left: 20px;">
+</div>
 **Contact me @..**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShisheerKaushik24/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/agusthya1)
-[![Website](https://img.shields.io/badge/Website-533483?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAANlBMVEVHcEz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BGUsxbAAAAEXRSTlMAZOy3Dfch0xbFo3k6BeCKTaUaOHcAAAQoSURBVHjatJZnAqs4DIRdcO%2F3P%2BzuqxmQkSF54fuTBozKSI64SbFZtqidUz9wTscmsy3iexTbm3bKjANGOd36d4SKlbGawWBqlP%2Bs43us44IauxefY2Uw4wYmSPtpFsmN27j0STabdOMtnNzebXfWZryJ0fnNSqnxAeqdmmW9CniV4u1kily6NqWln2W51fE2hbof9uB92I%2F9lGi70X8bByEkqaDXhei7j3L2ebSXGppKSC%2Fa7glFiLL73ISXgTbmQsUGan4vRFYouf11VUUqWQhPRyrYNzRU%2B3V123Vd%2FCLtU%2FmBb2qtwtcqZEHidn9u9oHkBtdfVWyLR5v4KWwp%2FiANTW47zm9kPFbaqeG929n3FQ9ScX%2B%2F7IfONDIviA64%2FPqaJIKLybflUG0jxQm50nb8YtM0ZpqK3k5nrGYx4fW5O7Ki1acJKjzN71W0F5TGOLAdfAQsOtAY7%2BB7GjD6QZ8Vp6jmMhYUBCkeKo%2F1BPqrwaazYfU5Q3QLSMPYAumHjYmL5NgVsSPkGYN7R9sO0lwvOrzOrr%2Bn1VKZb6PpXOnTnAhtCNRRLVA0k2VWJGQ61NEfwHOan2i7kTgQT7qyP0%2BVOwA%2FVDdRYRbuhxE8Cv8QaFeJ40FiwaH0GNWi7c8hn6wW6vVstVAveOtBf7XxMO2wHGogVOYngIOA%2F0kXYR3y2ggJFtlOwa5wdiNo%2FCSyogsbNH4F0%2BPGbYIgdzdLA6%2Bxj6iWEWn8FdngFGz8qVQ0EyeQvIiv6DxGsfMiujAi3bAFRVOieL0182UBlzFkxYogfC3cImGHhBmswsix%2FXIrkc2x7ZrjmEUSRBYOhoi8FpG8iIJI2L4sIp8XoZk8Xq5l48Nl4229Flm7q%2BhLC2cDEd7Cq2EU8XIYJfbFahhXa6VdrpWGu1drZbEgRaPO4wtqOt%2Butlz1Cf26MpfKq1W%2FOrTS1aGFm5VdHVqL47e8RIzczihy3Dp%2Bb%2F6RcOEUN%2B79kfi%2FWTNYjhCEAagwrWYMgP%2F%2FtR1v%2BBobnaGZ3ePuISTgSt7LWZP%2F%2FWjI5S7omhpw4Y5oHUKaoJB2LqoxRYvdprfYkbCgynbHqNTGSiSEulicCH%2B6eseoyjyAs8iG72ehKDGhGjnRzhRZLRuqkc8hRRAvAi%2F%2Bwvd7tfEgCgzWKoSmzBGr%2Bgt0LlXHp3SI0u0M69qsaomFbLEEREGKidvLs0X47GD0fcVu4WIETeBjdJ4wCJBkHpZknHlfCFBtbMe4ZqZCS%2FNYbUDSZP36Vf1kJNKfSRqCdujPtbH8F8ZbTN0kvtRyxRmZWc%2B%2B0mIUKMCGDSiOAkQMN8o3ZGav1%2Ff1%2Fkpmjs8TsnmrZSVCME9Q5b37qjxe%2BsePL0QPYsSMlAQNx7wc85GIgaX6qaNXiHOoPUSmx9xpNSlJz3G4lnM7x%2BE0FXka4AcoMGNOLOtg2QAAAABJRU5ErkJggg%3D%3D)](https://shisheerkaushik.netlify.app)
+<!-- [![Website](https://img.shields.io/badge/Website-533483?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAANlBMVEVHcEz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BGUsxbAAAAEXRSTlMAZOy3Dfch0xbFo3k6BeCKTaUaOHcAAAQoSURBVHjatJZnAqs4DIRdcO%2F3P%2BzuqxmQkSF54fuTBozKSI64SbFZtqidUz9wTscmsy3iexTbm3bKjANGOd36d4SKlbGawWBqlP%2Bs43us44IauxefY2Uw4wYmSPtpFsmN27j0STabdOMtnNzebXfWZryJ0fnNSqnxAeqdmmW9CniV4u1kily6NqWln2W51fE2hbof9uB92I%2F9lGi70X8bByEkqaDXhei7j3L2ebSXGppKSC%2Fa7glFiLL73ISXgTbmQsUGan4vRFYouf11VUUqWQhPRyrYNzRU%2B3V123Vd%2FCLtU%2FmBb2qtwtcqZEHidn9u9oHkBtdfVWyLR5v4KWwp%2FiANTW47zm9kPFbaqeG929n3FQ9ScX%2B%2F7IfONDIviA64%2FPqaJIKLybflUG0jxQm50nb8YtM0ZpqK3k5nrGYx4fW5O7Ki1acJKjzN71W0F5TGOLAdfAQsOtAY7%2BB7GjD6QZ8Vp6jmMhYUBCkeKo%2F1BPqrwaazYfU5Q3QLSMPYAumHjYmL5NgVsSPkGYN7R9sO0lwvOrzOrr%2Bn1VKZb6PpXOnTnAhtCNRRLVA0k2VWJGQ61NEfwHOan2i7kTgQT7qyP0%2BVOwA%2FVDdRYRbuhxE8Cv8QaFeJ40FiwaH0GNWi7c8hn6wW6vVstVAveOtBf7XxMO2wHGogVOYngIOA%2F0kXYR3y2ggJFtlOwa5wdiNo%2FCSyogsbNH4F0%2BPGbYIgdzdLA6%2Bxj6iWEWn8FdngFGz8qVQ0EyeQvIiv6DxGsfMiujAi3bAFRVOieL0182UBlzFkxYogfC3cImGHhBmswsix%2FXIrkc2x7ZrjmEUSRBYOhoi8FpG8iIJI2L4sIp8XoZk8Xq5l48Nl4229Flm7q%2BhLC2cDEd7Cq2EU8XIYJfbFahhXa6VdrpWGu1drZbEgRaPO4wtqOt%2Butlz1Cf26MpfKq1W%2FOrTS1aGFm5VdHVqL47e8RIzczihy3Dp%2Bb%2F6RcOEUN%2B79kfi%2FWTNYjhCEAagwrWYMgP%2F%2FtR1v%2BBobnaGZ3ePuISTgSt7LWZP%2F%2FWjI5S7omhpw4Y5oHUKaoJB2LqoxRYvdprfYkbCgynbHqNTGSiSEulicCH%2B6eseoyjyAs8iG72ehKDGhGjnRzhRZLRuqkc8hRRAvAi%2F%2Bwvd7tfEgCgzWKoSmzBGr%2Bgt0LlXHp3SI0u0M69qsaomFbLEEREGKidvLs0X47GD0fcVu4WIETeBjdJ4wCJBkHpZknHlfCFBtbMe4ZqZCS%2FNYbUDSZP36Vf1kJNKfSRqCdujPtbH8F8ZbTN0kvtRyxRmZWc%2B%2B0mIUKMCGDSiOAkQMN8o3ZGav1%2Ff1%2Fkpmjs8TsnmrZSVCME9Q5b37qjxe%2BsePL0QPYsSMlAQNx7wc85GIgaX6qaNXiHOoPUSmx9xpNSlJz3G4lnM7x%2BE0FXka4AcoMGNOLOtg2QAAAABJRU5ErkJggg%3D%3D)](https://shisheerkaushik.netlify.app)
+-->
