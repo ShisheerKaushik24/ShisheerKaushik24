@@ -39,9 +39,9 @@ I'm a self-taught passionate Quantum Software developer
     <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" height="23px" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
     <a href="https://www.arduino.cc/en/software" target="_blank"><img alt="Arduino" height="23px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical" alt="Shish's GitHub stats" width="350" height="375" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShisheerKaushik24&count_private=true&show_icons=true&theme=radical" alt="Shish's GitHub stats" width="385" height="375" style="margin-right: 20px;">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShisheerKaushik24&theme=radical" alt="GitHub Streak" width="350" height="375" style="margin-left: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShisheerKaushik24&theme=radical" alt="GitHub Streak" width="385" height="375" style="margin-left: 20px;">
   </a>
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShisheerKaushik24&layout=compact" alt="Top Langs" width="300" height="375" style="margin-left:20px;">
