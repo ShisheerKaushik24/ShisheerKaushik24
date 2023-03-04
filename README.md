@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center"><small style="font-size: 10px;">Source: IBM Quantum</small></p>
+*<p align="center"><small>Source: IBM Quantum</small></p>*
 
 👋 Hello, I'm **Shisheer S Kaushik**
 
