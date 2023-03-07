@@ -18,8 +18,6 @@ I'm a self-taught passionate Quantum Software developer
 
 - 🌱 I’m currently learning Quantum Algorithm and Simulation using [Qiskit](https://qiskit.org/learn/)
 
-- 📫 You can [contact](shisheerkaushik24@yahoo.com) me.
-
 ## Tools & Stats 🛠️
 - Programming Languages<br>
     <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
