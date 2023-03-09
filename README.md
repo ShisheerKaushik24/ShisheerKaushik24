@@ -16,7 +16,7 @@ I'm a self-taught passionate Quantum Software developer
 
 - 👀 My interest lies in [Quantum Information Science](https://uwaterloo.ca/institute-for-quantum-computing/quantum-101/quantum-information-science-and-technology)
 
-- 🌱 I’m currently learning Quantum Algorithm and Simulation using [Qiskit](https://qiskit.org/learn/)
+- 🌱 I’m currently learning Quantum Algorithm and Simulation using various Quantum SDK's and Frameworks.
 
 ## Tools & Stats 🛠️
 - Programming Languages<br>
