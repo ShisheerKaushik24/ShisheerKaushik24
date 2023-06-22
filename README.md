@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ShisheerKaushik24/ShisheerKaushik24">
-    <img src="https://github.com/ShisheerKaushik24/ShisheerKaushik24/blob/main/data/ibm.jpeg" width="400" height="500" />
-  </a>
-</p>
-
-*<p align="center"><small>Source: IBM Quantum</small></p>*
 
 👋 Hello, I'm **Shisheer S Kaushik**
 
