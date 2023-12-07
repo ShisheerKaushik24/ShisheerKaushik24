@@ -5,11 +5,11 @@ I'm a self-taught passionate Quantum Software developer
 
 <a href="https://github.com/ShisheerKaushik24" target="_blank"><img src="https://img.shields.io/github/followers/ShisheerKaushik24?label=Follow&style=social" /></a> <a><img src="https://visitor-badge.laobi.icu/badge?page_id=ShisheerKaushik24/ShisheerKaushik24" /></a>
 
-**About me ..**
-
-- 👀 My interest lies in [Quantum Information Science](https://uwaterloo.ca/institute-for-quantum-computing/quantum-101/quantum-information-science-and-technology)
-
-- 🌱 I’m currently learning Quantum Algorithm and Simulation using various Quantum SDK's and Frameworks.
+- ⚛️ Interests:
+  - quantum computing, optimization, and machine learning.<br>
+- 📃 Experience
+  - 🔭 I'm currently studying as a master's student in [Quantum Science & Technology](https://iitj.ac.in/qic/) at Indian Institute of Technology of Jodhpur.
+  - 🌱 I’m currently learning Quantum Algorithm and Simulation using various Quantum SDK's and Frameworks.
 
 ## Tools & Stats 🛠️
 - Programming Languages<br>
