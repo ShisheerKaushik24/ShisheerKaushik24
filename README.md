@@ -57,5 +57,5 @@ I'm a self-taught passionate Quantum Software developer
 [twitter]: https://twitter.com/Agusthya1
 [linkedin]: https://www.linkedin.com/in/shisheerkaushik24/
 [email]: mailto:shisheerskaushik@aol.com
-[personal site]: http://shisheerkaushik.netlify.app/
+[personal site]: http://shisheerskaushik.netlify.app/
 [cv]: https://raw.githubusercontent.com/ShisheerKaushik24/Certificate-Acheived/blob/master/Valuable-Certi/Resume.pdf
