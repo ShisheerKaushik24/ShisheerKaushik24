@@ -1,7 +1,7 @@
 
 👋 Hello, I'm **Shisheer S Kaushik**
 
-I'm a self-taught passionate Quantum Software developer
+I'm a Quantum Software Engineer at [QpiAI Pvt Ltd](https://qpiai.tech), Bengaluru, IN.
 
 <a href="https://github.com/ShisheerKaushik24" target="_blank"><img src="https://img.shields.io/github/followers/ShisheerKaushik24?label=Follow&style=social" /></a> <a><img src="https://visitor-badge.laobi.icu/badge?page_id=ShisheerKaushik24/ShisheerKaushik24" /></a>
 
